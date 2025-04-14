@@ -50,5 +50,3 @@ The dataset includes key employee attributes:
 2. Use slicers and interactive filters to explore different analysis perspectives.  
 3. Navigate between reports for insights into employee trends and salary data.  
 
-## 📞 Contact  
-📧 [Your Email] | 🔗 [Your LinkedIn] | 🖥️ [Your Portfolio]  
