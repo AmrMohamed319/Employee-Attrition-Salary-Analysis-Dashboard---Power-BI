@@ -3,7 +3,7 @@
 
 
 
-# 📊 Employee Attrition & Salary Analysis Dashboard - Power BI  
+# 📊 HR Data Analysis Project - Power BI  
 
 ## Overview  
 This Power BI dashboard provides a comprehensive analysis of employee data, covering demographics, attrition trends, salary distributions, and performance insights. It helps HR and business leaders make data-driven decisions regarding employee retention and workforce management.  
