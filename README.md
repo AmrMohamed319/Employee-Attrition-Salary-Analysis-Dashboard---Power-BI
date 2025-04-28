@@ -48,5 +48,12 @@ The dataset includes key employee attributes:
 ## 📌 How to Use  
 1. Open the Power BI file (.pbix).  
 2. Use slicers and interactive filters to explore different analysis perspectives.  
-3. Navigate between reports for insights into employee trends and salary data.  
+3. Navigate between reports for insights into employee trends and salary data.
+
+## Done By:
+- **Abdel Nasser Abdel Moneim Mohamed Ouf**
+- **Ola Abdo Abdo Elbahrawy**
+- **Ola Abdo Abdo Elbahrawy**
+- **Mohamed Abdelsamie Hassaan Mohamed**
+- **Amr Mohamed Abd Alhafeez Ogail**
 
